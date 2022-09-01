@@ -31,7 +31,7 @@ $ ssh-keygen -t rsa -b 4096 -C "<email>"
 ## 3.5 Test if key exists
 ```sh
 $ cat <your home folder>/.ssh/id_ed25519.pub
-ssh-ed25519 AJBJjJBJBJANNK+AJSDN/JNS/aJNAS kong.pakk@mail.com
+ssh-ed25519 AJBJjJBJBJANNK+AJSDN/JNS/aJNAS user@mail.com
 ```
 
 ## 4. Add key to github

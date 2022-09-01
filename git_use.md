@@ -1,17 +1,14 @@
 # Git Professional Guide คู่มือ Git มืออาชีพ 
 
-เขียนโดย Pakkapol
-
-แปลไทยโดย ภัคพล
+เขียนโดย kong-wep
 
 ## Table of Contents
-- [Command Summary](#0-command-summary)
-- [What is Git](#1-what-is-git)
-- [](#2-concepts)
-- [](#3-terminology)
-- [](#4-files)
-- [All Summary](#5-all-summary)
-- 
+- [0. Command Summary](#0-command-summary)
+- [1. What is Git](#1-what-is-git)
+- [2. Concepts](#2-concepts)
+- [3. Terminology](#3-terminology)
+- [4. Files](#4-files)
+- [5. All Summary](#5-all-summary)
 - [Git Status](#git-status)
 - [Git Add/Remove](#git-addremove)
 - [Git Restore](#git-restore)
